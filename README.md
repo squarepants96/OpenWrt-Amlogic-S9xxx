@@ -1,5 +1,7 @@
 # OpenWrt For Amlogic Devices
 
+Build coba-coba, lagi belajar hehe
+
 **Screenshots**
 <details><summary>Click here to show some screenshots</summary>
 <p>
