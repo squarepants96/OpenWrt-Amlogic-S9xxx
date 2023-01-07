@@ -10,3 +10,12 @@
 
 ![image](https://user-images.githubusercontent.com/27992153/211130408-4887cc0f-db8d-42c6-90b1-ad7c02b7e27d.png)
 
+</p>
+</details>
+
+**Download**
+<details><summary>Click here to download</summary>
+
+- [OpenWrt Firmware](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases) ~ For S905X, etc.
+  
+</details>
