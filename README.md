@@ -16,6 +16,8 @@
 **Download**
 <details><summary>Click here to download</summary>
 
-- [OpenWrt Firmware](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases) ~ For S905X, etc.
+- OpenWrt Firmware 21.02.5 - Latest
+- [OpenWrt Firmware 22.03.3](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases/tag/v22.03.3-2023.01.06) - Latest
+- [All Releses](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/)
   
 </details>
