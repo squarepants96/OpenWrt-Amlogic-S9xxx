@@ -1,1 +1,1 @@
-# OpenWrt-Amlogic-S9xxx
+# OpenWrt for Amlogic S9xxx
