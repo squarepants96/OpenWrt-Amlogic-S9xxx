@@ -11,14 +11,11 @@ Build coba-coba, lagi belajar hehe
 - **Openclash Only**
 ## ![image](https://user-images.githubusercontent.com/27992153/211130408-4887cc0f-db8d-42c6-90b1-ad7c02b7e27d.png)
 
-**Download**
-<details><summary>Click here to download</summary>
-
+## Download
 - OpenWrt Firmware 21.02.5 - Latest
 - [OpenWrt Firmware 22.03.3](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases/tag/OpenWrt_22.03.3_2023.01.06) - Latest
 - [All Releases](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases)
 
-</details>
 <br>
 <h5 align="center">Copyright by <a href="https://www.facebook.com/ardi.o.setia">Ardi Setiawan</a> ® 2023 
 <br> Thank You ! 🤝</h3>
