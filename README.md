@@ -13,7 +13,7 @@ Build coba-coba, lagi belajar hehe
 
 ## Download
 - OpenWrt Firmware 21.02.5 - Latest
-- [OpenWrt Firmware 22.03.3](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases/tag/OpenWrt_22.03.3_2023.01.06) - Latest
+- [OpenWrt Firmware 22.03.3](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases/tag/OpenWrt_22.03.3_2023.01.19) - Latest
 - [All Releases](https://github.com/squarepants96/OpenWrt-Amlogic-S9xxx/releases)
 
 <br>
