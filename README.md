@@ -3,7 +3,7 @@
 Build coba-coba, lagi belajar hehe
 
 - **A95X**
-## ![image](https://user-images.githubusercontent.com/27992153/211130387-6c3b648a-da35-4208-84c5-fcb8b52b5e27.png)
+## ![image](https://user-images.githubusercontent.com/27992153/213909765-1f5c7bf2-6819-4d32-af6e-4712b103e17e.png)
 
 - **HG680P**
 ## ![image](https://user-images.githubusercontent.com/27992153/213578095-0d878202-4f6f-4cb8-83fa-5b775214e4ed.png)
